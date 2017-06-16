@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsoa.iml" filepath="$PROJECT_DIR$/.idea/modules/hsoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsoa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hsoa_main.iml" group="hsoa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsoa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hsoa_test.iml" group="hsoa" />
+    </modules>
+  </component>
+</project>
